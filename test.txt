@@ -1,4 +1,4 @@
 "for more details visit official webpage"
 " i am changing your repositry "
 "my name is krishna"
-" ok thanks for changing"
+git" ok thanks for changing"
