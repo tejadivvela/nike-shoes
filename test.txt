@@ -1,5 +1,8 @@
 "for more details visit official webpage"
 " i am changing your repositry "
 "my name is krishna"
+git" ok thanks for changing"
 " ok thanks for changing"
+i,m changingin dev branch
+changed in main branch
 i,m changingin dev branch
